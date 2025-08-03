@@ -1,0 +1,13 @@
+{
+  "name": "campus-marketplace-backend",
+  "build": {
+    "command": "npm install"
+  },
+  "start": {
+    "command": "npm start"
+  },
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": "$PORT"
+  }
+}
